@@ -1,1 +1,1 @@
-# Openclassrooms_Projet_8_D-ployez-un-mod-le-dans-le-cloud
+# Openclassrooms_Projet_8_Deployez un modele dans le cloud
